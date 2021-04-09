@@ -1,0 +1,1 @@
+SELECT Name FROM City WHERE Name LIKE 'f%'LIMIT 25;
